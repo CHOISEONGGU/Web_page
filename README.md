@@ -36,6 +36,11 @@
 - 데이터 오류 감지 및 해결 프로세스 구현
 - Airflow를 이용한 모니터링 시스템 스케쥴링 및 운영
 
+### 데이터 크롤링으로 캠핑장 가격 측정 시스템 구축
+
+- 필요 데이터셋 동적 크롤링 사용하여 구현
+- 딥러닝 기법 사용하여 facility 유무 별 가격 책정 시스템 구축
+
 ## SNS 및 GitHub
 
 - [LinkedIn](https://www.linkedin.com/in/yourname/)
